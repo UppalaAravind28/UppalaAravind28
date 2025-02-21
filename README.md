@@ -61,9 +61,6 @@ With a strong foundation in programming, web development, and database managemen
 - Created a **user-friendly and visually appealing website** to showcase the restaurant's menu and services.  
 - Built using **HTML** and **CSS**, with **Git** for version control and **GitHub** for hosting repositories.  
 - Used **VS Code** as the IDE for development.  
-
-*(Feel free to add links to your project repositories here!)*
-
 ---
 
 ## 🏅 Certifications
