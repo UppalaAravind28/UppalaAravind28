@@ -1,13 +1,5 @@
 # 👋 Hi, I'm Uppala Aravind
 ---
-
-
-Tech Enthusiast | Lifelong Learner | Pursuing MCA 🎓  
-Passionate about solving real-world challenges with technology 💻🚀  
-Contact: +91 9182120474 | Email: uppalaaravind28@gmail.com  
-LinkedIn: [uppala-aravind-28](https://www.linkedin.com/in/uppala-aravind-28-lin)  
-GitHub: [@UppalaAravind28](https://github.com/UppalaAravind28)
----
 ## 🌟 About Me
 
 I’m Uppala Aravind, a tech enthusiast currently pursuing a **Master of Computer Applications (MCA)** at Vignan’s Lara Institute of Technology and Science. My career objective is to join a reputed organization where I can apply my knowledge and skills to solve real-world challenges, contribute to impactful projects, and grow as a professional while aligning with the company’s vision and goals.
@@ -107,7 +99,7 @@ I’m always eager to expand my knowledge and stay updated with the latest trend
 I’m always open to collaborations, discussions, and learning opportunities. Feel free to reach out via:
 
 - **Email**: [uppalaaravind28@gmail.com](mailto:uppalaaravind28@gmail.com)  
-- **LinkedIn**: [uppala-aravind-28](https://www.linkedin.com/in/uppala-aravind-28-lin)  
+- **LinkedIn**: [uppala-aravind-28](https://www.linkedin.com/in/uppala-aravind-28-lin/)  
 - **GitHub**: [@UppalaAravind28](https://github.com/UppalaAravind28)  
 
 ---
